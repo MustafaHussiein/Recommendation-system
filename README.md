@@ -1,4 +1,4 @@
-![Screenshot 2024-12-17 165745](https://github.com/user-attachments/assets/2bc3eeff-af8f-4f16-9069-699075e2ef2b)# Recommendation-system
+# Recommendation-system
 Recommending books due to famous websites info scraping
 🚀 Transforming Book Discovery with Cutting-Edge AI! 📚✨
 
